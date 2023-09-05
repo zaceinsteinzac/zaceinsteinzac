@@ -19,7 +19,9 @@ ________________________________________________________________________________
 🔗https://sentinelupcycling.com.ph/ - A Brochure Website for Turning low value plastics waste to higher durable products
 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
+<br>
 <a href='mailto:zacariasaaangel@gmail.com' target="_blank"><img alt='e' src='https://img.shields.io/badge/zacariasaaangel@gmail.com-100000?style=for-the-badge&logo=e&logoColor=white&labelColor=FF0000&color=FF0000'/></a>
+<br>
 <a href='https://www.linkedin.com/in/angela-zacarias-284812239/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Angelazacarias-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=272DA3&color=272DA3'/></a>
 
 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 & 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
